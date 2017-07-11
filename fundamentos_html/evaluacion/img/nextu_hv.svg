@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg width="206" height="98" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <filter id="svg_2_blur">
+   <feGaussianBlur stdDeviation="0.6"/>
+  </filter>
+ </defs>
+ <g display="inline">
+  <title>Capa 2</title>
+  <rect id="svg_4" height="95" width="203.000006" y="1.5" x="1.5" stroke-width="3" fill="#ff7f00" stroke="#000000"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000000" transform="matrix(2.2559499740600586,0,0,1.5862069129943848,-84.14864826202393,-30.7758629322052) " filter="url(#svg_2_blur)" font-style="italic" xml:space="preserve" text-anchor="middle" font-family="Fantasy" font-size="24" id="svg_2" y="57.271739" x="81.437003" stroke-width="0" fill="#000000">JvC</text>
+ </g>
+</svg>
